@@ -1,9 +1,8 @@
 # Hi there, I'm Vini Makhija! 👋 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="Connect on LinkedIn" />
-  </a>
-</p>
+### 📬 Connect with Me
+*   **Location:** Mumbai, India (Open to Remote / Mumbai WFO)
+*   **Email:** vinimakhijapt@gmail.com
+*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
 
 ---
 ### 🏥 Former NHS (UK) Physiotherapist turned Data Analyst (SQL • Tableau • Excel)
@@ -38,9 +37,4 @@ Having managed electronic health records (SystmOne NHS) and navigated understaff
 
 ---
 
-### 📬 Connect with Me
-*   **Location:** Mumbai, India (Open to Remote / Mumbai WFO)
-*   **Email:** vinimakhijapt@gmail.com
-*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
-
-*“Bringing professional clinical governance and data accuracy safeguards from the hospital floor directly into production data ecosystems.”*
+*“Bringing professional clinical governance and data accuracy safeguards from the hospital floor directly into data.”*
