@@ -36,13 +36,6 @@ Having managed electronic health records (SystmOne NHS) and navigated understaff
 
 ---
 
-### 📈 GitHub Profile Insights
-<p align="left">
-<img src="https://vercel.app" alt="Vini's GitHub Stats" />
-</p>
-
----
-
 ### 📬 Connect with Me
 *   **Location:** Mumbai, India (Open to Remote / Mumbai WFO)
 *   **Email:** vinimakhijapt@gmail.com
