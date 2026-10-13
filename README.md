@@ -13,18 +13,12 @@ Having managed electronic health records (SystmOne NHS) and navigated understaff
 
 ### 🛠️ Technical Skills & Tools
 
-<p align="left">
-  <!-- SQL -->
-  <img src="https://shields.io" />
-  <!-- Excel -->
-  <img src="https://shields.io" />
-  <!-- Tableau -->
-  <img src="https://shields.io" />
-  <!-- R -->
-  <img src="https://shields.io" />
-</p>
+![SQL](https://shields.io)
+![Excel](https://shields.io)
+![Tableau](https://shields.io)
+![R](https://shields.io)
 
-*   **SQL Mastery:** Subqueries, complex Joins, CTEs, Window Functions (`RANK`, `LAG/LEAD`, `FIRST_VALUE/LAST_VALUE`), Aggregations, Data Cleaning, and Quality Validation.
+*   **SQL Mastery:** Subqueries, complex Joins, CTEs, Window Functions (`RANK`, `LAG/LEAD`), Aggregations, Data Cleaning, and Quality Validation.
 *   **Methodologies:** Exploratory Data Analysis (EDA), Business Question Framing (5W1H), Dashboarding, and Clinical Literature Reviews.
 *   **Certifications:** Google Data Analytics Professional Certificate.
 
