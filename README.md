@@ -4,6 +4,8 @@
     <img src="https://shields.io" alt="Connect on LinkedIn" />
   </a>
 </p>
+
+---
 ### 🏥 Former NHS (UK) Physiotherapist turned Data Analyst (SQL • Tableau • Excel)
 
 I am an international clinical healthcare professional with over 3 years of hands-on experience in busy hospital environments across the **UK** and **India**. I have transitioned my career into data analytics to bridge the gap between complex health pipelines and real-world human behavior. 
