@@ -9,21 +9,15 @@
 I am an international clinical healthcare professional with over 3 years of hands-on experience in busy hospital environments across the **UK** and **India**. I have transitioned my career into data analytics to bridge the gap between complex health pipelines and real-world human behavior. 
 
 Having managed electronic health records (SystmOne NHS) and navigated understaffed ward environments, I bring a front-line understanding of data governance, medical terminology, and clinical workflows. My goal is to apply structured, evidence-based data synthesis to improve Healthcare system.
+
 ---
 
 ### 🛠️ Technical Skills & Tools
 
-<p align="left">
-  <img src="https://shields.io" alt="SQL" />
-  <img src="https://shields.io" alt="Excel" />
-  <img src="https://shields.io" alt="Tableau" />
-  <img src="https://shields.io" alt="R" />
-</p>
-
-*   **SQL Mastery:** Subqueries, complex Joins, CTEs, Window Functions (`RANK`, `LAG/LEAD`), Aggregations, Data Cleaning, and Quality Validation.
-*   **Methodologies:** Exploratory Data Analysis (EDA), Business Question Framing (5W1H), Dashboarding, and Clinical Literature Reviews.
-*   **Certifications:** Google Data Analytics Professional Certificate.
-
+*   **Core Stack:** SQL (Google BigQuery), Advanced Excel, Tableau, R
+*   **SQL Skills:** Subqueries, Joins, CTEs, Window Functions (RANK, LEAD/LAG), Data Cleaning
+*   **Methodologies:** Dashboarding, Exploratory Data Analysis (EDA), Business Logic (5W1H)
+*   **Certifications:** Google Data Analytics Professional Certificate
 
 ---
 
